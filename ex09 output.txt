@@ -1,0 +1,3 @@
+Forward Probability of sequence: 0.033612
+Viterbi best path probability: 0.01344
+Most likely hidden states: ['Sunny', 'Rainy', 'Rainy']
